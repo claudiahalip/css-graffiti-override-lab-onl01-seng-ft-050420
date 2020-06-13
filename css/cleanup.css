@@ -10,6 +10,6 @@
 #tag-4 .parent {display: none;}
 #wall div #tag-4{display: none;}
 #wall div.parent #tag-5.slick {display: none;}
-body #wall div.parent div:last-child #tag-6 {display:none;}
+body #wall div.parent #tag-6 {display:none;}
 
 body #wall div.parent div > #tag-7.slick {display: none}
